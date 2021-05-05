@@ -10,7 +10,7 @@
 > - A Minecraft plugin developer (pocketmine) and builder
 ---
 
-| Main Projects:open_file_folder:   |     Status:date:      |
+| Main Projects :open_file_folder:   |     Status :date:      |
 |----------|:-------------:|
 | Minecraft Dawn Factions |  On Hold |
 | Java Enrollment System |    Ongoing   |
