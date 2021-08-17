@@ -15,7 +15,8 @@
 | Minecraft Dawn Factions |  On Hold |
 | Java Enrollment System |    Ongoing   |
 | Sage New Website | Plan to do |
----![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitsugua&show_icons=true&theme=tokyonight)
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitsugua&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsuguaaa&layout=compact)](https://github.com/Nitsuguaaa)
 
 
