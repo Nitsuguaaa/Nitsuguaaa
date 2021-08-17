@@ -16,7 +16,8 @@
 | Java Enrollment System |    Ongoing   |
 | Sage New Website | Plan to do |
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitsuguaaa)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsuguaaa)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitsuguaaa)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsuguaaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Nitsuguaaa/Nitsuguaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
