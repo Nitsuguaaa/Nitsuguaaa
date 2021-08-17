@@ -5,8 +5,8 @@
 
 > #### Knowledge :pencil:
 > - Newbie to [PHP, Java, HTML, CSS]
->  - Technical and Stage Management trainee at [Every Nation Campus](https://www.facebook.com/ENCampusBatangas)
->  - Digital arts (really new)
+>  - Developer/Owner of DawnMC factions
+>  - Video editing
 > - A Minecraft plugin developer (pocketmine) and builder
 ---
 
