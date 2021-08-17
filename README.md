@@ -6,7 +6,7 @@
 > #### Knowledge :pencil:
 > - Newbie to [PHP, Java, HTML, CSS]
 >  - Developer/Owner of DawnMC factions
->  - Video editing
+>  - Video editor
 > - A Minecraft plugin developer (pocketmine) and builder
 ---
 
