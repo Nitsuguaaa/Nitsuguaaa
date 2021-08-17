@@ -12,8 +12,8 @@
 
 | Main Projects :open_file_folder:   |     Status :date:      |
 |----------|:-------------:|
-| Minecraft Dawn Factions |  On Hold |
-| Java Enrollment System |    Ongoing   |
+| Minecraft Dawn Factions |  Ongoing |
+| Java Enrollment System |    Finished   |
 | Sage New Website | Plan to do |
 ---
 [![Nitsugua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitsuguaaa&show_icons=true&theme=tokyonight)](https://github.com/Nitsuguaaa)
