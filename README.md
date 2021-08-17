@@ -16,7 +16,7 @@
 | Java Enrollment System |    Ongoing   |
 | Sage New Website | Plan to do |
 ---
-[![Nitsugua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitsuguaaa&show_icons=true&theme=tokyonight)](https://github.com/Nitsuguaaa)
+[![Nitsugua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitsuguaaa&show_icons=true&theme=gradient)](https://github.com/Nitsuguaaa)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsuguaaa&layout=compact)](https://github.com/Nitsuguaaa)
 
 
