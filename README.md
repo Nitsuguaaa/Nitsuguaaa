@@ -4,7 +4,7 @@
 ### A Newbie Student Programmer
 
 > #### Knowledge :pencil:
-> - Newbie to [PHP, Java, HTML, CSS, Javascript, C#]
+> - Newbie to [PHP, Java, HTML, CSS, Javascript, C#, Javascript]
 >  - Developer/Owner of DawnMC factions
 >  - Video editor
 > - A Minecraft plugin developer (pocketmine) and builder
@@ -12,7 +12,7 @@
 
 | Main Projects :open_file_folder:   |     Status :date:      |
 |----------|:-------------:|
-| Minecraft Dawn Factions |  Ongoing |
+| Minecraft Dawn Factions |  On Hold |
 | Java Enrollment System |    Finished   |
 | Sage New Website | Plan to do |
 ---
