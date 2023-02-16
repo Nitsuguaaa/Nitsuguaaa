@@ -5,16 +5,8 @@
 
 > #### Knowledge :pencil:
 > - [PHP, Java, C#, C++, Javascript, SQL]
->  - Developer/Owner of DawnMC factions
 >  - Video editor
-> - A Minecraft plugin developer (pocketmine) and builder
----
-
-| Main Projects :open_file_folder:   |     Status :date:      |
-|----------|:-------------:|
-| Minecraft Dawn Factions |  On Hold |
-| Java Enrollment System |    Finished   |
-| Sage New Website | Plan to do |
+> - A Minecraft plugin developer (pocketmine API)
 ---
 [![Nitsugua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitsuguaaa&show_icons=true&theme=tokyonight)](https://github.com/Nitsuguaaa) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsuguaaa&layout=compact)](https://github.com/Nitsuguaaa)
 
