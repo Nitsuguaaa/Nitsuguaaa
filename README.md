@@ -4,7 +4,7 @@
 ### A Newbie Student Programmer
 
 > #### Knowledge :pencil:
-> - Newbie to [PHP, Java, HTML, CSS, Javascript, C#, Javascript]
+> - [PHP, Java, C#, C++, Javascript, SQL]
 >  - Developer/Owner of DawnMC factions
 >  - Video editor
 > - A Minecraft plugin developer (pocketmine) and builder
